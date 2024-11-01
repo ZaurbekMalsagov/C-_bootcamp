@@ -1,0 +1,14 @@
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\bin\Debug\net8.0\S21_ex00.exe
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\bin\Debug\net8.0\S21_ex00.deps.json
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\bin\Debug\net8.0\S21_ex00.runtimeconfig.json
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\bin\Debug\net8.0\S21_ex00.dll
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\bin\Debug\net8.0\S21_ex00.pdb
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\obj\Debug\net8.0\S21_ex00.GeneratedMSBuildEditorConfig.editorconfig
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\obj\Debug\net8.0\S21_ex00.AssemblyInfoInputs.cache
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\obj\Debug\net8.0\S21_ex00.AssemblyInfo.cs
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\obj\Debug\net8.0\S21_ex00.csproj.CoreCompileInputs.cache
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\obj\Debug\net8.0\S21_ex00.dll
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\obj\Debug\net8.0\refint\S21_ex00.dll
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\obj\Debug\net8.0\S21_ex00.pdb
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\obj\Debug\net8.0\S21_ex00.genruntimeconfig.cache
+D:\EDUCATION\SCHOOL 21\C#_bootcamp\exercise0\S21_ex00\obj\Debug\net8.0\ref\S21_ex00.dll
