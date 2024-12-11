@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "S21_ex06": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
